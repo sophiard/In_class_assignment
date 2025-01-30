@@ -23,5 +23,5 @@ if (score >= 60) {
 
 //task3
 
-
-
+for (let i =10; i>=1; i--)
+    console.log(i);
